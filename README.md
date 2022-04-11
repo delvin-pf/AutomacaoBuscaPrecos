@@ -24,3 +24,6 @@ O WebScrapping resulta muito util para automatizar tarefas repetitivas e que pos
 #### Arquivos
     - Alterar o arquivo login.txt para conter o e-mail e a senha de uma conta gmail, para o envio do e-mail.
     - Alterar o arquivo buscas.xlsx para definir os parametros da busca.
+    
+#### Obs.
+O site de Buscapé muda com certa frecuencia, por isso é possivel que a automação não funcionde ou de algum erro
